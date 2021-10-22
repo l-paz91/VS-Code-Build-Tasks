@@ -16,7 +16,7 @@
     "tasks": [
       {
         "type": "shell",
-        "label": "cl.exe build active file",
+        "label": "cl.exe CPP Build Task",
         "command": "cl.exe",
         "args": [
           "/Zi",
